@@ -4,7 +4,7 @@ NASA ABoVE (Arctic-Boreal Vulnerability Experiment) GIS mapping project integrat
 ## Sample Maps
 
 ### Vegetation & Forest Structure
-![Tree Canopy Cover](images/ABoVE_TCC-compressed.png).
+![Tree Canopy Cover](ABoVE_TCC-compressed.png).
 
 This map shows how much of the Arctic-Boreal region is covered by tree canopy and how forest age varies across the landscape. By combining Landsat imagery with machine learning, long-term changes in forest structure were estimated from 1984 to 2020, helping illustrate patterns of growth, disturbance, and recovery over time.
 

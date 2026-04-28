@@ -35,8 +35,6 @@ These maps show projected changes in land cover between 2015 and 2100, focusing 
 
 ## Booklets
 
-## Booklets
-
 These booklets include regional maps and plain-language summaries. If the GitHub preview does not display all map images, use the download button or view the official NASA ABoVE outreach page.
 
 - [ABoVE Domain Booklet](Final_ABoVE.pdf)

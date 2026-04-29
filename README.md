@@ -37,10 +37,10 @@ These maps show projected changes in land cover between 2015 and 2100, focusing 
 
 These booklets include regional maps and plain-language summaries. If the GitHub preview does not display all map images, use the download button or view the official NASA ABoVE outreach page.
 
-- [ABoVE Domain Booklet](booklet/Final_ABoVE.pdf)
-- [Sahtu Region Booklet](booklet/Final_Sahtu.pdf)
-- [Yukon-Kuskokwim Delta Booklet](booklet/Final_Yukon.pdf)
-- [Fairbanks Booklet](booklet/Final_Fairbanks.pdf)
+- [ABoVE Domain Booklet](booklets/Final_ABoVE.pdf)
+- [Sahtu Region Booklet](booklets/Final_Sahtu.pdf)
+- [Yukon-Kuskokwim Delta Booklet](booklets/Final_Yukon.pdf)
+- [Fairbanks Booklet](booklets/Final_Fairbanks.pdf)
 
 Additional official ABoVE outreach materials:
 https://above.nasa.gov/outreach.html
